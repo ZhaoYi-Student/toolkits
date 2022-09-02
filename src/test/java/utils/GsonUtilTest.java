@@ -1,6 +1,7 @@
 package utils;
 
 import org.junit.Test;
+import spi.test.People;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +12,9 @@ import java.util.Map;
 public class GsonUtilTest {
 
 
+    @Test
     public void testToJson() {
+
     }
 
     public void testFromList() {
